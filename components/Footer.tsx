@@ -12,9 +12,9 @@ export default function Footer() {
           <p className="text-white/60 text-xs">
             (C) 2025 - All registered
           </p>
-          <p className="text-white/60 text-xs uppercase">
-            Website by Lust 
-          </p>
+          <a href="/terms" className="text-white/60 text-xs hover:text-white/80 transition-colors">
+            Terms, Privacy & Cookies
+          </a>
         </div>
       </div>
     </footer>

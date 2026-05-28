@@ -94,7 +94,7 @@ export default function CTA() {
             <p className="cta-disclaimer text-white/60 text-xs leading-relaxed max-w-md">
               By using this site or submitting a consultation request, you agree
               to our{' '}
-              <a href="#terms" className="underline hover:text-white/80">
+              <a href="/terms" className="underline hover:text-white/80">
                 Terms, Privacy & Cookies
               </a>
               . Your data is stored securely and never shared without your
@@ -126,32 +126,12 @@ export default function CTA() {
                 </li>
                 <li className="cta-link-item-2">
                   <a
-                    href="https://y-entrepreneurs.vercel.app/"
+                    href="https://trylyto.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/80 hover:text-white transition-colors"
                   >
-                    Y Entrepreneurs
-                  </a>
-                </li>
-                <li className="cta-link-item-3">
-                  <a
-                    href="https://www.elevatify.co"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-white/80 hover:text-white transition-colors"
-                  >
-                    Elevatify
-                  </a>
-                </li>
-                <li className="cta-link-item-4">
-                  <a
-                    href="https://www.counselai.app"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-white/80 hover:text-white transition-colors"
-                  >
-                    CounselAI
+                    Lyto
                   </a>
                 </li>
               </ul>
@@ -197,16 +177,11 @@ export default function CTA() {
 
             <div className="cta-address-group">
               <h3 className="text-white font-semibold mb-4 text-lg">
-                Address:
+                Location:
               </h3>
-              <a
-                href="https://maps.google.com/?q=C.+Ribera,+Local+B,+Nueva+Andalucía,+29660+Marbella,+Málaga"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-white/80 hover:text-white transition-colors underline"
-              >
-                C. Ribera, Local B, Nueva Andalucía, 29660 Marbella, Málaga
-              </a>
+              <p className="text-white/80">
+                Based in Almaty
+              </p>
             </div>
           </div>
         </div>

@@ -9,9 +9,6 @@ export default function Header() {
             <span className="text-white text-sm lg:text-base font-medium">
               TECH ENTREPRENEUR & FOUNDER
             </span>
-            <span className="text-white/70 text-xs lg:text-sm mt-1">
-              FOR MARBELLA&apos;S TOP 1%
-            </span>
           </div>
 
           <div className="hidden md:block absolute left-1/2 transform -translate-x-1/2">

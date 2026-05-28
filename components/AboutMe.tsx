@@ -163,7 +163,7 @@ export default function AboutMe() {
         <div className={`max-w-4xl mx-auto ${isVisible ? 'animate-about-fade-in' : 'about-hidden'}`}>
           <div className="space-y-8 text-white/80 text-lg md:text-xl leading-relaxed">
             <p>
-              Hi, my name is <span className="text-white font-semibold">Arystan</span>, and I&apos;m from <span className="text-white font-semibold">Almaty, Kazakhstan</span>. I&apos;m a full-stack developer, startup builder, and the owner of my own online marketing agency. I&apos;m also a high school student in Grade 11, combining real-world experience with ambitious goals.
+              Hi, my name is <span className="text-white font-semibold">Arystan</span>, and I&apos;m from <span className="text-white font-semibold">Almaty</span>. I&apos;m a full-stack developer, startup builder, and the owner of my own online marketing agency. I&apos;m also a high school student in Grade 11, combining real-world experience with ambitious goals.
             </p>
           </div>
         </div>
@@ -174,7 +174,7 @@ export default function AboutMe() {
           </h3>
           <div className="space-y-6 text-white/80 text-lg leading-relaxed">
             <p>
-              I&apos;ve completed two internships at <span className="text-white font-semibold">Kcell</span> and <span className="text-white font-semibold">BTS Digital</span>, was invited by the <span className="text-white font-semibold">Algoverse AI Research Program</span>, and I&apos;ve built two apps: <span className="text-white font-semibold">CounselAI</span> and <span className="text-white font-semibold">Elevatify</span>.
+              I&apos;ve completed two internships at <span className="text-white font-semibold">Kcell</span> and <span className="text-white font-semibold">BTS Digital</span>, was invited by the <span className="text-white font-semibold">Algoverse AI Research Program</span>, and I built <span className="text-white font-semibold">Lyto</span> with my co-founder. I&apos;m also pursuing my <span className="text-white font-semibold">B.S. in Computer Science</span> at <span className="text-white font-semibold">Embry-Riddle Aeronautical University</span>, Class of &apos;30.
             </p>
           </div>
         </div>
